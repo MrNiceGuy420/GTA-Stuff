@@ -1,0 +1,8 @@
+You have selected DXT compression. DXT is a very efficient compression type for world textures. Textures stored in DXT use far less space, but they degrade the image quality significantly. It is NOT recommended to compress GUI textures.
+
+DXT1 is good for textures that use alpha for cut-out regions.
+DXT2/3 is good for textures with sharp alpha.
+DXT4/5 is good for textures with smooth alpha.
+If your image has no alpha, just pick DXT1.
+
+Be careful which textures you compress and which type you choose!
