@@ -1,0 +1,6 @@
+   9 vertexfmt: 1000005
+ 510 vertexfmt: 1000505
+  11 vertexfmt: 1000545
+3652 vertexfmt: 1005505
+  14 vertexfmt: 45
+2317 vertexfmt: 545
